@@ -1,4 +1,4 @@
-repo: meghamshb2006/Portfolio
+repo: meghamshb/Portfolio
 branch: main
 
 ## Last sync
